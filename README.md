@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Anshad Mkhize
+# 👋 Welcome to my world! I'm Anshad Mkhize
 🚀 Ambitious | 💼 Future Business Tycoon | 💻 Developer in the Making
 
 Welcome to my GitHub! I'm a driven first-year student at Rosebank College, majoring in Software Development . I’m laying the foundation for a legacy of **prosperity**, **success**, and **opportunity**. 
