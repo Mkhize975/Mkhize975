@@ -1,24 +1,50 @@
-# 👋 Welcome I'm Anshad Mkhize
-🚀 Ambitious | 💼 Future Business Tycoon | 💻 Developer in the Making
+# Hi, I'm Mkhize975 👋
 
-I'm a driven first-year student at Rosebank College, majoring in Software Development . I’m laying the foundation for a legacy of **prosperity**, **success**, and **opportunity**. 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mkhize975&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mkhize975&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mkhize975&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mkhize975&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-## 📫 Let’s Connect
-
-- 💼 Always open to collaboration, internships, or startup ventures.
-- 📚 Constantly learning and leveling up.
-- ✉️ Reach out to collaborate, brainstorm, or just say hi!
-
-> *“Legacy is built one smart decision at a time.”*
+Welcome to my GitHub profile! I'm a passionate developer eager to build impactful projects and continuously learn new technologies. Here you'll find a showcase of my skills, personal projects, and contributions to open-source.
 
 ---
 
+## 🚀 About Me
+
+- 💼 **Aspiring Software Engineer / Developer**
+- 🎓 Self-taught with hands-on experience in modern programming languages and frameworks
+- 🌍 Based in [Lenasia, Gauteng]
+- ✉️ Reach me: [your.arshadmkhize728@gmail.com](mailto:your.arshadmkhize728@gmail.com)
+- 📝 [LinkedIn](www.linkedin.com/in/nkululeko-anshad-mkhize-372360266) | [Portfolio]www.linkedin.com/in/nkululeko-anshad-mkhize-372360266) 
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** Python, JavaScript, [Add any others...]
+- **Frameworks:** Java, Html and Css, [Add any others...]
+- **Tools:** Git, GitHub Actions, Docker, [Add any others...]
+- **Other:** REST APIs, Test-Driven Development, Agile
+
+---
+
+## 💻 Featured Projects
+
+| Project      | Description                | Tech Stack         |
+| ------------ | -------------------------- | ------------------ |
+| [Project 1](https://github.com/Mkhize975/project1) | Brief description of what it does | Python, Flask       |
+| [Project 2](https://github.com/Mkhize975/project2) | Another cool thing you built      | Java, Html       |
+
+*Explore my repositories for more!*
+
+---
+
+## 📈 GitHub Stats
+
+![Mkhize975's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mkhize975&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mkhize975&layout=compact&theme=github_dark)
+
+---
+
+## 🤝 Let's Connect!
+
+I’m open to collaboration, freelance opportunities, or full-time roles. If you’re a recruiter or fellow developer interested in working with me, don’t hesitate to reach out!
+
+---
+
+*Thanks for visiting my profile!*
