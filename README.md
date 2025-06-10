@@ -1,4 +1,4 @@
-# Hi, I'm Mkhize975 👋
+# Hi, I'm Anshad Mkhize 👋
 
 Welcome to my GitHub profile! I'm a passionate developer eager to build impactful projects and continuously learn new technologies. Here you'll find a showcase of my skills, personal projects, and contributions to open-source.
 
@@ -16,9 +16,9 @@ Welcome to my GitHub profile! I'm a passionate developer eager to build impactfu
 
 ## 🛠️ Skills
 
-- **Languages:** Python, JavaScript, [Add any others...]
-- **Frameworks:** Java, Html and Css, [Add any others...]
-- **Tools:** Git, GitHub Actions, Docker, [Add any others...]
+- **Languages:** Python, JavaScript
+- **Frameworks:** Java, Html and Css
+- **Tools:** Git, GitHub Actions, Docker
 - **Other:** REST APIs, Test-Driven Development, Agile
 
 ---
