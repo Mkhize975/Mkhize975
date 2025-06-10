@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm a passionate developer eager to build impactfu
 
 - 💼 **Aspiring Software Engineer / Developer**
 - 🎓 Self-taught with hands-on experience in modern programming languages and frameworks
-- 🌍 Based in [Lenasia, Gauteng]
+- 🌍 Based in Lenasia, Gauteng
 - ✉️ Reach me: [arshadmkhize728@gmail.com](mailto:arshadmkhize728@gmail.com)
-- 📝 [LinkedIn](www.linkedin.com/in/nkululeko-anshad-mkhize-372360266) | www.linkedin.com/in/nkululeko-anshad-mkhize-372360266) 
+- 📝 [LinkedIn](www.linkedin.com/in/nkululeko-anshad-mkhize-372360266) | www.linkedin.com/in/nkululeko-anshad-mkhize-372360266 
 
 ---
 
