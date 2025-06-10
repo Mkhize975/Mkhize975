@@ -9,8 +9,8 @@ Welcome to my GitHub profile! I'm a passionate developer eager to build impactfu
 - 💼 **Aspiring Software Engineer / Developer**
 - 🎓 Self-taught with hands-on experience in modern programming languages and frameworks
 - 🌍 Based in [Lenasia, Gauteng]
-- ✉️ Reach me: [your.arshadmkhize728@gmail.com](mailto:your.arshadmkhize728@gmail.com)
-- 📝 [LinkedIn](www.linkedin.com/in/nkululeko-anshad-mkhize-372360266) | [Portfolio]www.linkedin.com/in/nkululeko-anshad-mkhize-372360266) 
+- ✉️ Reach me: [arshadmkhize728@gmail.com](mailto:arshadmkhize728@gmail.com)
+- 📝 [LinkedIn](www.linkedin.com/in/nkululeko-anshad-mkhize-372360266) | www.linkedin.com/in/nkululeko-anshad-mkhize-372360266) 
 
 ---
 
@@ -27,8 +27,8 @@ Welcome to my GitHub profile! I'm a passionate developer eager to build impactfu
 
 | Project      | Description                | Tech Stack         |
 | ------------ | -------------------------- | ------------------ |
-| [Project 1](https://github.com/Mkhize975/project1) | Brief description of what it does | Python, Flask       |
-| [Project 2](https://github.com/Mkhize975/project2) | Another cool thing you built      | Java, Html       |
+| [Project 1](https://github.com/Mkhize975/Alphachat) | Brief description of what it does | Python, Flask       |
+| [Project 2](https://github.com/Mkhize975/Palindromecheckerpart2) | Another cool thing you built      | JavaScript, Html       |
 
 *Explore my repositories for more!*
 
