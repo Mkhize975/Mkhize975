@@ -34,10 +34,11 @@ Welcome to my GitHub profile! I'm a passionate developer eager to build impactfu
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mkhize975&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mkhize975&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mkhize975&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Mkhize975's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mkhize975&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mkhize975&layout=compact&theme=github_dark)
 
 ---
 
