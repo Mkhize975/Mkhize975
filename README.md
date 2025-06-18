@@ -27,8 +27,8 @@ Welcome to my GitHub profile! I'm a passionate developer eager to build impactfu
 
 | Project      | Description                | Tech Stack         |
 | ------------ | -------------------------- | ------------------ |
-| [Project 1](https://github.com/Mkhize975/Alphachat) | Brief description of what it does | Python, Flask       |
-| [Project 2](https://github.com/Mkhize975/Palindromecheckerpart2) | Another cool thing you built      | JavaScript, Html       |
+| [AlphaChat](https://github.com/Mkhize975/Alphachat) | Java-based desktop chat app for secure, real-time messaging with user authentication and encryption. | Java, JavaFX/Swing, Java Sockets |
+| [websites](https://github.com/Mkhize975/websites) | A collection of web projects and experiments; showcases various sites and apps for learning and demos. | JavaScript, HTML, CSS |
 
 *Explore my repositories for more!*
 
