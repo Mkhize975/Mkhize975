@@ -27,8 +27,8 @@ Welcome to my GitHub profile! I'm a passionate developer eager to build impactfu
 
 | Project      | Description                | Tech Stack         |
 | ------------ | -------------------------- | ------------------ |
-| [AlphaChat](https://github.com/Mkhize975/Alphachat) | Java-based desktop chat app for secure, real-time messaging with user authentication and encryption. | Java, JavaFX/Swing, Java Sockets |
-| [Websites](https://github.com/Mkhize975/websites) | A collection of web projects and experiments; showcases various sites and apps for learning and demos. | JavaScript, HTML, CSS |
+| [AlphaChat](https://github.com/Mkhize975/Alphachat) | Java-based desktop chat app for secure, real-time messaging with user authentication and encryption. | Java |
+| [Websites](https://github.com/Mkhize975/Website) | A collection of web projects and experiments; showcases various sites and apps for learning and demos. | JavaScript, HTML, CSS |
 
 *Explore my repositories for more!*
 
